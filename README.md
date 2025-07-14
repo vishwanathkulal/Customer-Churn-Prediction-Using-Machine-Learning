@@ -89,8 +89,3 @@ Author
 vishwanath kulal
 SCEM,Mangalore
 
-* A `requirements.txt` file
-* Streamlit app setup steps
-* GitHub folder structure template?
-
-Let me know and I’ll generate them for you!
